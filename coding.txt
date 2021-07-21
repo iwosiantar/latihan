@@ -4,3 +4,4 @@ Tekhnical Writing
 - Analisa
 - desain
 - Coding
+- Testing
